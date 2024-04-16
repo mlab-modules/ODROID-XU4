@@ -4,9 +4,9 @@
 # ODROID-XU4
 <!--- Emodule --->
 
-<!--- subtitle --->Eight core ARM computer module<!--- Esubtitle --->
+<!--- subtitle --->Eight core ARM computer module MLAB breakout frame.<!--- Esubtitle --->
 
-![ODROID-XU4](/doc/img/ODROID-XU4_QRcode.png)
+![ODROID-XU4](/doc/img/ODROID-XU4_breakout_frame_small.jpg)
 
-<!--- description --->Computer module for applications which needs full Linux operating system and lot of computing power. It is suitable for machine control or home automation as example.<!--- Edescription --->
+<!--- description --->Computer module for applications that need a full Linux operating system. It is suitable for machine control or home automation for example.<!--- Edescription --->
             
